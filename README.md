@@ -25,11 +25,11 @@ We'll cover:
 
 ## Pre-requisites
 
-#### Option 1: Python3 (local devlopment)
-- Docker (https://docs.docker.com/desktop/)
-- An existing SQL Server 2016+ database (optional)
+#### Option 1: Python3 and Jupyter notebooks (local development)
+- Python (https://docs.docker.com/desktop/)
+- Jupyter notebook
 
-**Run Jupyter notebook locally**
+**Run Jupyter Lab locally**
 
 Run the following command:
 ```
@@ -44,6 +44,13 @@ jupyter-lab
 
 
 ## Getting started
+The easiest way to download the repository is to clone it using `git`:
 
-Clone this repo and `cd` into this directory
+```bash
+git clone https://github.com/MaastrichtU-IDS/coding4all.git
+cd coding4all/
+```
+
+You can also [download it as a .zip file](https://github.com/MaastrichtU-IDS/coding4all/archive/refs/heads/main.zip).
+
 

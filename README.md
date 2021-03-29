@@ -71,4 +71,6 @@ jupyter-lab
 
 #### Option 3: Google Colab
 Open the following link: https://colab.research.google.com/drive/1hNZOfGMw2cmTRGCm1vjw_N772izwjrak?usp=sharing
-(you should have a google account)
+
+- You should have a google account.
+- Make a **copy** before starting writing.

@@ -36,7 +36,7 @@ Use `git` to clone the repository.
 git clone https://github.com/MaastrichtU-IDS/coding4all.git
 ```
 
-> If you don't have `git` installed you can also[download it as a .zip file](https://github.com/MaastrichtU-IDS/coding4all/archive/refs/heads/main.zip) and unzip it.
+> If you don't have `git` installed you can also [download it as a .zip file](https://github.com/MaastrichtU-IDS/coding4all/archive/refs/heads/main.zip) and unzip it.
 
 4. **Go the workshop folder in your terminal**:
 

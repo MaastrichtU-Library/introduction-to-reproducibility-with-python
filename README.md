@@ -47,7 +47,7 @@ cd coding4all
 > For the whole workshop we assume you are running the terminal commands from this directory.
 
 ---
-## Run Jupyter Notebooks
+## Run Notebooks
 
 
 ### Option 1: Python3 and Jupyter notebooks (*pip* environment)
@@ -69,4 +69,6 @@ jupyter-lab
 ```
 
 
-
+#### Option 3: Google Colab
+Open the following link: https://colab.research.google.com/drive/1hNZOfGMw2cmTRGCm1vjw_N772izwjrak?usp=sharing
+(you should have a google account)

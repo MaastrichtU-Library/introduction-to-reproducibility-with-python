@@ -8,19 +8,19 @@ In this workshop, we'll cover the basics of using Python for research.
 We'll cover:
 1. **Python fundamentals:**
     + Running and Quitting
-    + [Variables and Assignment](notebooks/01-variables-and-assig.ipynb)
-    + [Data Types and Type Conversion](notebooks/02-data-types-and-conversion.ipynb)
-    + [Built-in Functions and Help](notebooks/03-built-in-functions-and-help.ipynb)
-    + [Libraries](notebooks/04-libraries.ipynb)
+    + [Variables and Assignment](notebooks/1.1-variables-and-assig.ipynb)
+    + [Data Types and Type Conversion](notebooks/1.2-data-types-and-conversion.ipynb)
+    + [Built-in Functions and Help](notebooks/1.3-built-in-functions-and-help.ipynb)
+    + [Libraries](notebooks/1.4-libraries.ipynb)
 2. **Analyse and visualise data with python:**
-    + [Reading Tabular Data into DataFrames](notebooks/05-reading-tabular-data.ipynb)
-    + [Pandas DataFrames](notebooks/06-pandas-data-frame.ipynb)
-    + [Plotting](notebooks/07-plotting.ipynb)
+    + [Reading Tabular Data into DataFrames](notebooks/2.1-reading-tabular-data.ipynb)
+    + [Pandas DataFrames](notebooks/2.2-pandas-data-frame.ipynb)
+    + [Plotting](notebooks/2.3-plotting.ipynb)
 3. **List and _for loops_:**
-    + [List](notebooks/08-list.ipynb)
-    + [For loops](notebooks/09-for-loops.ipynb)
+    + [List](notebooks/3.1-list.ipynb)
+    + [For loops](notebooks/3.2-for-loops.ipynb)
 4. **Advanced topics:**
-    + [Writing Functions](notebooks/10-writing-functions.ipynb)
+    + [Writing Functions](notebooks/4.1-writing-functions.ipynb)
 
 ---
 

@@ -36,13 +36,17 @@ jupyter-lab
 
 
 #### Option 3: Google Colab
-Open the following link: [Google Colab Notebook](https://colab.research.google.com/drive/1k8R0Oa8uzYrWJI3JhlSbfywEOvMy1Vz5)
+Open the following link: [Google Colab Notebook](https://colab.research.google.com/drive/1f0QeSiIdqwgL_Th1LGrCBQ3nn9XO46Mo)
 
 - You should have a google account.
 - Make a **copy** before starting writing.
 
 
----
-*This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.*
+#### All notebooks ans solutions
+[Python Basics for Researchers Workshop](https://nbviewer.jupyter.org/github/MaastrichtU-IDS/coding-for-researchers/blob/main/notebooks/all-notebooks.ipynb)
 
-Institute of Data Science, Maastricht University 2021.  
+---
+[MIT License](https://github.com/MaastrichtU-IDS/coding-for-researchers/blob/main/LICENSE)
+
+Copyright (c) 2021 Maastricht University Institute of Data Science
+

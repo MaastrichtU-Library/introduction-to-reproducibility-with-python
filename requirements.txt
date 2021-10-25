@@ -1,0 +1,7 @@
+pandas
+json
+scipy
+numpy
+plotly
+requests
+seaborn

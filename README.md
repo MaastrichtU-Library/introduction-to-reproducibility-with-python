@@ -40,8 +40,8 @@ This workshop ultimately builds up on the [Coding Basics for Researchers](https:
 
 ### Recommended Sources
 
-- [BITSS Resource Library]((https://www.bitss.org/resource-library/)) has a collection of materials on research transparency and reproducibility.
-- [Awesome Reproducible Research]((https://github.com/leipzig/awesome-reproducible-research)) is a curated list of reproducible research case studies, projects, tutorials, and media
+- [BITSS Resource Library](https://www.bitss.org/resource-library/) has a collection of materials on research transparency and reproducibility.
+- [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) is a curated list of reproducible research case studies, projects, tutorials, and media
 - Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks: [doi: 10.1371/journal.pcbi.1007007](https://doi.org/10.1371/journal.pcbi.1007007)
 - For those based in the Netherlands, the [eScience Center]((https://www.esciencecenter.nl/events/)) is continuously hosting training on digital skills.
 
